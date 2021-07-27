@@ -1,0 +1,3 @@
+[submodule "pages_submodule_test"]
+	path = pages_submodule_test
+	url = https://github.com/Bauxitedev/pages_submodule_test
